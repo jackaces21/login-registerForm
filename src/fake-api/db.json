@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "fullName": "Ahmad Sholeh",
+      "username": "ahmadsholeh",
+      "email": "ahmad@email.com",
+      "password": "password",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "fullName": "Bill Gates",
+      "username": "bill",
+      "email": "bill@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "Jane Doe",
+      "username": "jane",
+      "email": "jane@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "asdf",
+      "username": "asdf",
+      "email": "asdf",
+      "password": "asdf",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "Koala lumpur",
+      "username": "koala",
+      "email": "koala@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullName": "John Doe",
+      "username": "johndoe",
+      "email": "john@mail.com",
+      "password": "password",
+      "role": "admin",
+      "id": 6
+    }
+  ]
+}
